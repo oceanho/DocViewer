@@ -204,12 +204,19 @@ FakesAssemblies/
 *.plg
 
 # Visual Studio 6 workspace options file
-*.opt 
+
+
+
+*.opt
+
 
 # LightSwitch generated files
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+
 .vs
 .gitignore
 *.pfx
+
+
